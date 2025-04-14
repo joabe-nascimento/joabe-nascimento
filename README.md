@@ -32,8 +32,8 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologi
 ## **💼 Experiência Profissional**
 
 ### **Grupo Nobre**  
-<div align="center">
-  <img src="https://i0.wp.com/gruponobre.edu.br/wp-content/uploads/2021/01/GRUPO-NOBRE-SITE-06.png?fit=1001%2C476&ssl=1" width="300" alt="Logo Grupo Nobre"/>
+<div align="left">
+  <img src="https://i0.wp.com/gruponobre.edu.br/wp-content/uploads/2021/01/GRUPO-NOBRE-SITE-06.png?fit=1001%2C476&ssl=1" width="100" alt="Logo Grupo Nobre"/>
 </div>
 
 **Cargo**: Desenvolvedor Fullstack Júnior  
@@ -50,8 +50,8 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologi
 ---
 
 ### **União Médica**  
-<div align="center">
-  <img src="https://www.uniaomedica.com.br/wp-content/themes/uniao_medica/img/simbolo-uniao-medica.png" width="150" alt="Logo União Médica"/>
+<div align="left">
+  <img src="https://www.uniaomedica.com.br/wp-content/themes/uniao_medica/img/simbolo-uniao-medica.png" width="100" alt="Logo União Médica"/>
 </div>
 
 **Cargo**: Suporte de Sistemas de TI  
