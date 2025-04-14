@@ -13,19 +13,67 @@
 
 # **🎉 Bem-vindo(a) ao meu Perfil do GitHub!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologia e construção de soluções inovadoras. Concluí o curso técnico de Desenvolvimento de Sistemas no **SENAI** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIFAN** (Centro Universitário Nobre).
+Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologia e construção de soluções inovadoras. Concluí o curso técnico de Desenvolvimento de Sistemas no **SENAI CIMATEC** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIFAN** (Centro Universitário Nobre).
 
 ---
 
 ## **🚀 Sobre Mim**
 
 - 🎓 **Formação Acadêmica**:
-  - Técnico em Desenvolvimento de Sistemas (SENAI)
-  - Graduação em Análise e Desenvolvimento de Sistemas (UNIFAN - Cursando)
+  - **Técnico em Desenvolvimento de Sistemas** | SENAI CIMATEC (2022 - 2023)
+  - **Graduação em Análise e Desenvolvimento de Sistemas** | UNIFAN (2023 - 2025)
 
 - 💡 **Objetivo**: Contribuir com projetos criativos, aprender continuamente e colaborar em soluções que impactam positivamente a sociedade.
 
 - 🌟 **Princípios**: Código limpo, design responsivo e otimização de desempenho são prioridades nos meus projetos.
+
+---
+
+## **💼 Experiência Profissional**
+
+### **Grupo Nobre**  
+**Cargo**: Desenvolvedor Fullstack Júnior  
+**Período**: Março de 2025 - Presente (2 meses)  
+**Local**: Feira de Santana, Bahia, Brasil  
+
+> O Grupo Nobre é referência na Bahia nas áreas da Educação, Saúde, Esporte e Entretenimento. Em educação, o grupo apresenta resultados de excelência com o Colégio Nobre, Maple Bear e as faculdades UNIFAN e UNEF.  
+
+**Responsabilidades**:
+- Manutenção e personalização dos Portais TOTVS (Aluno, Professor e Gestão Educacional);
+- Desenvolvimento de páginas e sistemas web;
+- Implementação de melhorias para otimização de processos internos.
+
+---
+
+### **União Médica**  
+**Cargo**: Suporte de Sistemas de TI  
+**Período**: Outubro de 2023 - Março de 2025 (1 ano e 6 meses)  
+**Local**: Feira de Santana, Bahia, Brasil  
+
+> Atuação no suporte a sistemas internos da instituição, garantindo o bom funcionamento e atendimento rápido às demandas.  
+
+**Responsabilidades**:
+- Tratamento e manipulação de arquivos XML para integração entre sistemas;
+- Gerenciamento de dados e processos internos na plataforma Solus;
+- Identificação e resolução de problemas técnicos.
+
+---
+
+### **CEPEDI**  
+**Participação**: Residência em TIC 36 (Processo Seletivo)  
+**Período**: Abril de 2024 - Junho de 2024 (3 meses)  
+**Local**: Feira de Santana, Bahia, Brasil  
+
+> Participei do processo seletivo do programa de capacitação Residência em TIC 36, promovido pelo CEPEDI, na trilha de Desenvolvedor FullStack. Alcancei uma pontuação de **95 pontos**, demonstrando dedicação e conhecimento técnico. Embora não tenha sido convocado, essa experiência fortaleceu minha motivação para seguir aprimorando minhas habilidades.
+
+---
+
+### **Mercadinho e Panificadora Brito**  
+**Cargo**: Padeiro  
+**Período**: Junho de 2016 - Outubro de 2023 (7 anos e 5 meses)  
+**Local**: Feira de Santana, Bahia, Brasil  
+
+> Experiência em produção de pães e produtos de panificação, desenvolvendo habilidades como organização, trabalho em equipe e gestão de tempo.
 
 ---
 
@@ -43,27 +91,10 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologi
 
 ---
 
-## **🛠️ Projetos Destacados**
-
-### 1. **Swistart**
-- **Descrição**: Meu site pessoal, onde compartilho projetos, ideias e minha evolução no mundo do desenvolvimento.
-- **Link**: [Visitar Site](https://swistart.com/)
-- **Tecnologias**: ReactJS, TailwindCSS, Vercel
-
-### 2. **Projeto XYZ**
-- **Descrição**: Breve descrição do projeto.
-- **Link**: [Repositório](https://github.com/seu-repositorio)
-- **Tecnologias**: Node.js, MongoDB, React Router DOM
-
-> Confira mais projetos no meu perfil ou na aba de repositórios!
-
----
-
 ## **📊 Estatísticas & Progresso**
 
 <div align="center">
 
-<!-- Substitua 'joabe-nascimento' pelo seu usuário do GitHub -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joabe-nascimento&show_icons=true&theme=dracula&include_all_commits=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joabe-nascimento&theme=dracula)](https://git.io/streak-stats)
 
