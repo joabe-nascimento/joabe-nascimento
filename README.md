@@ -1,12 +1,7 @@
 <!-- CABEÇALHO COM FOTO E BANNER -->
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEWQFOmvOt3QQ/profile-displaybackgroundimage-shrink_350_1400/B4DZYbCzIoG8AY-/0/1744210442009?e=1750291200&v=beta&t=XNbhHmmjbDCCdnd4npefFmiKFtlOg8YjZY_fEKQjGcM" width="600" alt="header-banner"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEWQFOmvOt3QQ/profile-displaybackgroundimage-shrink_350_1400/B4DZYbCzIoG8AY-/0/1744210442009?e=1750291200&v=beta&t=XNbhHmmjbDCCdnd4npefFmiKFtlOg8YjZY_fEKQjGcM" width="1200" alt="header-banner"/>
 </div>
-
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEWQFOmvOt3QQ/profile-displaybackgroundimage-shrink_350_1400/B4DZYbCzIoG8AY-/0/1744210442009?e=1750291200&v=beta&t=XNbhHmmjbDCCdnd4npefFmiKFtlOg8YjZY_fEKQjGcM" width="150" alt="Foto de Perfil" style="border-radius: 50%; margin-top: -30px; border: 4px solid #ffffff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
-</div>
-
 <!-- TÍTULO ANIMADO (Typing SVG) -->
 <div align="center">
   <a href="https://github.com/joabe-nascimento">
