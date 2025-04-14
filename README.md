@@ -1,6 +1,6 @@
 <!-- CABEÇALHO COM FOTO E BANNER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="600" alt="header-banner"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEWQFOmvOt3QQ/profile-displaybackgroundimage-shrink_350_1400/B4DZYbCzIoG8AY-/0/1744210442009?e=1750291200&v=beta&t=XNbhHmmjbDCCdnd4npefFmiKFtlOg8YjZY_fEKQjGcM" width="600" alt="header-banner"/>
 </div>
 
 <div align="center">
