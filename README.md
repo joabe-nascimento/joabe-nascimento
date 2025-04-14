@@ -129,7 +129,7 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologi
 ## **📫 Contato**
 
 Caso tenha dúvidas, sugestões ou oportunidades de colaboração, fique à vontade para me enviar uma mensagem.  
-📧 **E-mail**: _seuemail@exemplo.com_ (substituir)
+📧 **E-mail**: joabefnascimento1@outlook.com
 
 ---
 
