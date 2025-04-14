@@ -13,7 +13,7 @@
 
 # **🎉 Bem-vindo(a) ao meu Perfil do GitHub!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologia e construção de soluções inovadoras. Concluí o curso técnico de Desenvolvimento de Sistemas no **SENAI CIMATEC** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIFAN** (Centro Universitário Nobre).
+Olá! Sou **Joabe**, **Desenvolvedor Fullstack Jr**, apaixonado por tecnologia e construção de soluções inovadoras. Concluí o curso técnico de Desenvolvimento de Sistemas no **SENAI CIMATEC** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIFAN** (Centro Universitário Nobre).
 
 ---
 
