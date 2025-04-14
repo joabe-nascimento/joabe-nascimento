@@ -32,6 +32,10 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologi
 ## **💼 Experiência Profissional**
 
 ### **Grupo Nobre**  
+<div align="center">
+  <img src="https://i0.wp.com/gruponobre.edu.br/wp-content/uploads/2021/01/GRUPO-NOBRE-SITE-06.png?fit=1001%2C476&ssl=1" width="300" alt="Logo Grupo Nobre"/>
+</div>
+
 **Cargo**: Desenvolvedor Fullstack Júnior  
 **Período**: Março de 2025 - Presente (2 meses)  
 **Local**: Feira de Santana, Bahia, Brasil  
@@ -46,6 +50,10 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologi
 ---
 
 ### **União Médica**  
+<div align="center">
+  <img src="https://www.uniaomedica.com.br/wp-content/themes/uniao_medica/img/simbolo-uniao-medica.png" width="150" alt="Logo União Médica"/>
+</div>
+
 **Cargo**: Suporte de Sistemas de TI  
 **Período**: Outubro de 2023 - Março de 2025 (1 ano e 6 meses)  
 **Local**: Feira de Santana, Bahia, Brasil  
@@ -110,8 +118,9 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologi
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabenascimentof/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joabenascimentof/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-nascimento-632345211/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joabenascimentooficial/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joabe-nascimento)
 
 </div>
 
@@ -129,5 +138,3 @@ Caso tenha dúvidas, sugestões ou oportunidades de colaboração, fique à vont
   <br><br>
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="50" alt="thankyou"/>
 </div>
-
----
