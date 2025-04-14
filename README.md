@@ -33,7 +33,7 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, apaixonado por tecnologi
 
 ### **Grupo Nobre**  
 <div align="left">
-  <img src="https://i0.wp.com/gruponobre.edu.br/wp-content/uploads/2021/01/GRUPO-NOBRE-SITE-06.png?fit=1001%2C476&ssl=1" width="150" alt="Logo Grupo Nobre"/>
+  <img src="https://i0.wp.com/gruponobre.edu.br/wp-content/uploads/2021/01/GRUPO-NOBRE-SITE-06.png?fit=1001%2C476&ssl=1" width="300" alt="Logo Grupo Nobre"/>
 </div>
 
 **Cargo**: Desenvolvedor Fullstack Júnior  
